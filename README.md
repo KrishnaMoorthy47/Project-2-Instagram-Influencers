@@ -1,1 +1,1 @@
-# Project-2-Instagram-Influencers
+# Project-2-EDA for Instagram-Influencers
